@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "canvas": "^3.1.0",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.13",
+    "deepai": "^1.0.23",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "firebase": "^11.6.0",
+    "firebase-admin": "^13.2.0",
+    "mongodb": "^6.15.0",
+    "mongoose": "^6.13.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.94.0",
+    "os": "^0.1.2",
+    "sqlite3": "^5.1.7"
+  }
+}
